@@ -11,4 +11,4 @@ STM32 Lib 4 bit 7 segment LED 74HC595
 ![](https://github.com/GolinskiyKonstantin/STM32_Lib_4_bit_7_segment_LED_74HC595/blob/main/4_bit_7_segment_module.jpg)
 ![](https://github.com/GolinskiyKonstantin/STM32_Lib_4_bit_7_segment_LED_74HC595/blob/main/7-LED_74HC595.png)
 
-По всем вопросам пишите: golinskiy.konstantin@gmail.com
+По всем вопросам пишите: kostiantyn.holinskyi@gmail.com
